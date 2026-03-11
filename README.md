@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**nikkitasing/nikkitasing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Nikita Singh**, an aspiring **Software Developer** focused on full-stack web development.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on **React, Node.js, and Python projects**
+- 🌱 Learning **backend development and scalable APIs**
+- 💻 Interested in **web applications, cybersecurity, and system design**
+- 🤝 Open to **collaboration on web and backend projects**
+- 📫 Reach me at: **itsnikitasingh02@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+React.js • Next.js • JavaScript • Node.js • Express.js • Python • FastAPI • MongoDB • MySQL
+
+### Connect
+- GitHub: https://github.com/nikkitasing  
+- LinkedIn: https://linkedin.com/in/nikitasing
